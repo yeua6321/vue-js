@@ -16,8 +16,8 @@
     "vite": "^4.4.6"
   },
   "ampt": {
-    "org": "",
-    "app": "vue-js"
+    "app": "vue-js",
+    "org": "Judy0523a180374"
   },
   "files": [
     "*"
